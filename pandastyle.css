@@ -17,7 +17,15 @@ img {
     border-style: groove;
     border-color: coral;
     border-width: 7px;
+    padding: 20px;
+    
 
     
+}
+
+p {
+    border:solid 5px cornflowerblue;
+    padding: 20px;
+    border-radius: 20px;
 }
 
